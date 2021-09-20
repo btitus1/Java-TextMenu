@@ -1,5 +1,3 @@
-package textmenu;
-
 public class TextMenuItem implements Runnable {
 
     private final String title;

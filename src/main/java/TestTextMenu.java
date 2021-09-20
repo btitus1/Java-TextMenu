@@ -1,5 +1,3 @@
-package textmenu;
-
 public class TestTextMenu {
 
     private static final TextMenuItem item1= new TextMenuItem("item 1",new Runnable() {
